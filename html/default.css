@@ -1,0 +1,7 @@
+@charset "utf-8";
+/*권장이유: 다국어가 있을때 간혹 깨지는 경우가 있으므로*/
+.container{
+	max-width: 960px;
+	background: silver;
+	margin: 0 auto
+}
